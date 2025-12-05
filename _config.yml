@@ -1,0 +1,16 @@
+# GitHub Pages 配置
+theme: jekyll-theme-minimal
+title: 学生财务管理系统
+description: 学生财务管理系统 - 支出记录操作按钮优化和删除确认对话框
+show_downloads: true
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+# 页面配置
+port: 4000
+host: 0.0.0.0
+
+# 自定义设置
+repository: pHsl-z/student-finance-management
+github_username: pHsl-z
